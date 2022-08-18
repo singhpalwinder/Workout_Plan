@@ -1,0 +1,55 @@
+Deadlift :
+Set: 1
+Weight: 375
+Reps: 8-12
+
+Set: 2
+Weight: 400
+Reps: 8-12
+
+Set: 3
+Weight: 425
+Reps: 8-12
+
+
+Dumbell-Rows :
+Set: 1
+Weight: 78.75
+Reps: 8-12
+
+Set: 2
+Weight: 84
+Reps: 8-12
+
+Set: 3
+Weight: 89.25
+Reps: 8-12
+
+
+Lat-Pulldowns :
+Set: 1
+Weight: 153.75
+Reps: 8-12
+
+Set: 2
+Weight: 164
+Reps: 8-12
+
+Set: 3
+Weight: 174.25
+Reps: 8-12
+
+
+Hammer-Curls :
+Set: 1
+Weight: 30
+Reps: 8-12
+
+Set: 2
+Weight: 32
+Reps: 8-12
+
+Set: 3
+Weight: 34
+Reps: 8-12
+

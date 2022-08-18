@@ -1,0 +1,4 @@
+Deadlift = 500
+Dumbell-Rows = 105
+Lat-Pulldowns = 205
+Hammer-Curls = 40

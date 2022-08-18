@@ -1,0 +1,5 @@
+Bench = 245
+Incline-bench = 205
+Bodyweight-dips = 185
+Tricep extensions = 40
+Over-head-tricep-push = 80   

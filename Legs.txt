@@ -1,0 +1,6 @@
+Squat = 365
+Roamnian-Deadlifts = 225
+Barbell-Lunges = 135
+Seated-Leg-Extensions = 145
+Prone-Hamstring-Curls = 175
+Standing-Calf-Raises = 320
