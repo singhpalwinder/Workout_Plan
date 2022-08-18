@@ -1,4 +1,0 @@
-DB-Shoulder-press = 85
-Shrugs = 275
-Lateral-Raises = 25
-Seated-Reardelts = 135
